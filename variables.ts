@@ -6,9 +6,6 @@ const now = new Date();
 
 const colors: (string | number | boolean)[] = ["red", "green", "blue", 4, true];
 
-class Car {}
-const myCar = new Car();
-
 interface Point {
   x: number;
   y: number;
